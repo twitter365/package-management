@@ -17,7 +17,7 @@
 ### Install other softwares - git, unzip and wget
 
 ``` sh
-sudo hostname ci
+sudo hostname set-hostname ci
 sudo yum -y install unzip wget tree git
 sudo yum install java-11-openjdk -y
 ```
